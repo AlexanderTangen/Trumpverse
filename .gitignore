@@ -1,0 +1,17 @@
+# Node (React frontend)
+trumpverse-frontend/node_modules
+trumpverse-frontend/build
+
+# .NET (backend)
+TrumpVerseApi2/bin
+TrumpVerseApi2/obj
+TrumpVerseApi2/*.user
+TrumpVerseApi2/*.suo
+TrumpVerseApi2/*.cache
+TrumpVerseApi2/*.log
+
+# Mac
+.DS_Store
+
+# User secrets
+**/appsettings.Development.json
