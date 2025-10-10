@@ -1,0 +1,1907 @@
+{
+  "Version": 1,
+  "Hash": "aROJFFKb9DWG71cbxby5sWP/r8ckoTpOL1bvazNQZvw=",
+  "Source": "TrumpVerseApi2",
+  "BasePath": "_content/TrumpVerseApi2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "TrumpVerseApi2/wwwroot",
+      "Source": "TrumpVerseApi2",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/obj/Debug/net9.0/compressed/ja6cayjp5e-f8ngeiitcj.gz",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/obj/Debug/net9.0/compressed/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/Documentation#[.{fingerprint=f8ngeiitcj}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/Documentation.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "wuygwn85v5",
+      "Integrity": "iE/Ibysc//Gv/OVND8iVNxY0Kd7bce4O0Rm+c1GsyKU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/Documentation.html"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/0ez1xbiq.hgc.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/0ez1xbiq.hgc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "3iowlvcz4e",
+      "Integrity": "C9VuoopoEIYVkqIDfYWAIsf+Jwn+WGe5PhWtJJ1w044=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/0ez1xbiq.hgc.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/0rhj32vq.qs1.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/0rhj32vq.qs1#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cji3m90jth",
+      "Integrity": "aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/0rhj32vq.qs1.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/4r0cdiys.ohc.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/4r0cdiys.ohc#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ibk3k68biy",
+      "Integrity": "YsrtWQMAStPCILjbQ94fdeI14Wq892HoX4fwjUbyuDo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/4r0cdiys.ohc.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/cgprzonn.qx2.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/cgprzonn.qx2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "c1t0cz2ycw",
+      "Integrity": "ANV4j5JcOob6XqHjCb4GpuAr7zfBFPJ2bM0T2SXePL0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/cgprzonn.qx2.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/diajvgsf.3ic.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/diajvgsf.3ic#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jju3f0efct",
+      "Integrity": "oTMUhR4+goKuPtas/LQpt/UM0qRFmWAMx3TZL/Baov8=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/diajvgsf.3ic.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/Documentation.html",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/Documentation#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "f8ngeiitcj",
+      "Integrity": "n49mtHHTBScOdimOv3V975rOSrSG8RcH8mHBuUEyCvU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/Documentation.html"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/f50i432l.v0v.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/f50i432l.v0v#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7z42wfh5bk",
+      "Integrity": "TW7YrX8bNg+bpilHaypw2f+PmWTDMSjYHPhrcfe1yyI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/f50i432l.v0v.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/fdhyqjwz.sfn.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/fdhyqjwz.sfn#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cji3m90jth",
+      "Integrity": "aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/fdhyqjwz.sfn.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/h3lin1di.jq5.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/h3lin1di.jq5#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "cji3m90jth",
+      "Integrity": "aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/h3lin1di.jq5.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/phoswiks.bog.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/phoswiks.bog#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "e4nxn23h68",
+      "Integrity": "TiIAYLc1unhuZxBjMGuNAJ1A9mEGyF51djhy7Zu+7KU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/phoswiks.bog.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/pj1uunup.2xy.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/pj1uunup.2xy#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "fq2dzjav74",
+      "Integrity": "6SGkBiz6NJKQUMswzpCn28bSdVwWj6ZNzFOx7BT2EiY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/pj1uunup.2xy.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/ra2bnp2m.rb0.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/ra2bnp2m.rb0#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mwue3644xw",
+      "Integrity": "9o5dDS2Agc52K9xZuOQ7ENeZiddwU4tU0ntQVUgqqVs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/ra2bnp2m.rb0.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/sbsivggj.qhz.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/sbsivggj.qhz#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ibk3k68biy",
+      "Integrity": "YsrtWQMAStPCILjbQ94fdeI14Wq892HoX4fwjUbyuDo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/sbsivggj.qhz.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/sx1wdh30.mfk.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/sx1wdh30.mfk#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "2f1t11i0qt",
+      "Integrity": "ku45knkoluWQCglTNWIf42GT+s5pXy6nxnduwLp4pdo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/sx1wdh30.mfk.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/v2wtyp4l.yok.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/v2wtyp4l.yok#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qs1tssv2m7",
+      "Integrity": "WqrtiejyHKVa+kv1OuPysk1QXbTiO7i5neC+YOkm75Q=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/v2wtyp4l.yok.jpg"
+    },
+    {
+      "Identity": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/yzub3t0n.lu2.jpg",
+      "SourceId": "TrumpVerseApi2",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/",
+      "BasePath": "_content/TrumpVerseApi2",
+      "RelativePath": "images/yzub3t0n.lu2#[.{fingerprint}]?.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "4u0zr1raj5",
+      "Integrity": "/L2Dmw4rG/Edq3qn/gY8qxKz7T+HHsGn/mFTFrVW8uk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/images/yzub3t0n.lu2.jpg"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "images/0ez1xbiq.hgc.3iowlvcz4e.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/0ez1xbiq.hgc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C9VuoopoEIYVkqIDfYWAIsf+Jwn+WGe5PhWtJJ1w044=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:49:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3iowlvcz4e"
+        },
+        {
+          "Name": "label",
+          "Value": "images/0ez1xbiq.hgc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-C9VuoopoEIYVkqIDfYWAIsf+Jwn+WGe5PhWtJJ1w044="
+        }
+      ]
+    },
+    {
+      "Route": "images/0ez1xbiq.hgc.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/0ez1xbiq.hgc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "23825"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"C9VuoopoEIYVkqIDfYWAIsf+Jwn+WGe5PhWtJJ1w044=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:49:05 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-C9VuoopoEIYVkqIDfYWAIsf+Jwn+WGe5PhWtJJ1w044="
+        }
+      ]
+    },
+    {
+      "Route": "images/0rhj32vq.qs1.cji3m90jth.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/0rhj32vq.qs1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:46:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cji3m90jth"
+        },
+        {
+          "Name": "label",
+          "Value": "images/0rhj32vq.qs1.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw="
+        }
+      ]
+    },
+    {
+      "Route": "images/0rhj32vq.qs1.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/0rhj32vq.qs1.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:46:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw="
+        }
+      ]
+    },
+    {
+      "Route": "images/4r0cdiys.ohc.ibk3k68biy.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/4r0cdiys.ohc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsrtWQMAStPCILjbQ94fdeI14Wq892HoX4fwjUbyuDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:54:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ibk3k68biy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/4r0cdiys.ohc.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YsrtWQMAStPCILjbQ94fdeI14Wq892HoX4fwjUbyuDo="
+        }
+      ]
+    },
+    {
+      "Route": "images/4r0cdiys.ohc.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/4r0cdiys.ohc.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsrtWQMAStPCILjbQ94fdeI14Wq892HoX4fwjUbyuDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:54:22 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YsrtWQMAStPCILjbQ94fdeI14Wq892HoX4fwjUbyuDo="
+        }
+      ]
+    },
+    {
+      "Route": "images/cgprzonn.qx2.c1t0cz2ycw.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/cgprzonn.qx2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ANV4j5JcOob6XqHjCb4GpuAr7zfBFPJ2bM0T2SXePL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:38:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "c1t0cz2ycw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/cgprzonn.qx2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ANV4j5JcOob6XqHjCb4GpuAr7zfBFPJ2bM0T2SXePL0="
+        }
+      ]
+    },
+    {
+      "Route": "images/cgprzonn.qx2.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/cgprzonn.qx2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "34315"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ANV4j5JcOob6XqHjCb4GpuAr7zfBFPJ2bM0T2SXePL0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:38:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ANV4j5JcOob6XqHjCb4GpuAr7zfBFPJ2bM0T2SXePL0="
+        }
+      ]
+    },
+    {
+      "Route": "images/diajvgsf.3ic.jju3f0efct.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/diajvgsf.3ic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oTMUhR4+goKuPtas/LQpt/UM0qRFmWAMx3TZL/Baov8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jju3f0efct"
+        },
+        {
+          "Name": "label",
+          "Value": "images/diajvgsf.3ic.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oTMUhR4+goKuPtas/LQpt/UM0qRFmWAMx3TZL/Baov8="
+        }
+      ]
+    },
+    {
+      "Route": "images/diajvgsf.3ic.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/diajvgsf.3ic.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "186621"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oTMUhR4+goKuPtas/LQpt/UM0qRFmWAMx3TZL/Baov8=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:24:25 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oTMUhR4+goKuPtas/LQpt/UM0qRFmWAMx3TZL/Baov8="
+        }
+      ]
+    },
+    {
+      "Route": "images/Documentation.f8ngeiitcj.html",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/obj/Debug/net9.0/compressed/ja6cayjp5e-f8ngeiitcj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000901713255"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1108"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iE/Ibysc//Gv/OVND8iVNxY0Kd7bce4O0Rm+c1GsyKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:22:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"n49mtHHTBScOdimOv3V975rOSrSG8RcH8mHBuUEyCvU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f8ngeiitcj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Documentation.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n49mtHHTBScOdimOv3V975rOSrSG8RcH8mHBuUEyCvU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Documentation.f8ngeiitcj.html",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/Documentation.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n49mtHHTBScOdimOv3V975rOSrSG8RcH8mHBuUEyCvU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:22:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f8ngeiitcj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Documentation.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-n49mtHHTBScOdimOv3V975rOSrSG8RcH8mHBuUEyCvU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Documentation.f8ngeiitcj.html.gz",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/obj/Debug/net9.0/compressed/ja6cayjp5e-f8ngeiitcj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iE/Ibysc//Gv/OVND8iVNxY0Kd7bce4O0Rm+c1GsyKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:22:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "f8ngeiitcj"
+        },
+        {
+          "Name": "label",
+          "Value": "images/Documentation.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-iE/Ibysc//Gv/OVND8iVNxY0Kd7bce4O0Rm+c1GsyKU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Documentation.html",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/obj/Debug/net9.0/compressed/ja6cayjp5e-f8ngeiitcj.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000901713255"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1108"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iE/Ibysc//Gv/OVND8iVNxY0Kd7bce4O0Rm+c1GsyKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:22:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"n49mtHHTBScOdimOv3V975rOSrSG8RcH8mHBuUEyCvU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n49mtHHTBScOdimOv3V975rOSrSG8RcH8mHBuUEyCvU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Documentation.html",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/Documentation.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "3508"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"n49mtHHTBScOdimOv3V975rOSrSG8RcH8mHBuUEyCvU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:22:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-n49mtHHTBScOdimOv3V975rOSrSG8RcH8mHBuUEyCvU="
+        }
+      ]
+    },
+    {
+      "Route": "images/Documentation.html.gz",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/obj/Debug/net9.0/compressed/ja6cayjp5e-f8ngeiitcj.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1108"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"iE/Ibysc//Gv/OVND8iVNxY0Kd7bce4O0Rm+c1GsyKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:22:53 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-iE/Ibysc//Gv/OVND8iVNxY0Kd7bce4O0Rm+c1GsyKU="
+        }
+      ]
+    },
+    {
+      "Route": "images/f50i432l.v0v.7z42wfh5bk.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/f50i432l.v0v.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132677"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TW7YrX8bNg+bpilHaypw2f+PmWTDMSjYHPhrcfe1yyI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:37:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7z42wfh5bk"
+        },
+        {
+          "Name": "label",
+          "Value": "images/f50i432l.v0v.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TW7YrX8bNg+bpilHaypw2f+PmWTDMSjYHPhrcfe1yyI="
+        }
+      ]
+    },
+    {
+      "Route": "images/f50i432l.v0v.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/f50i432l.v0v.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "132677"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TW7YrX8bNg+bpilHaypw2f+PmWTDMSjYHPhrcfe1yyI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:37:34 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TW7YrX8bNg+bpilHaypw2f+PmWTDMSjYHPhrcfe1yyI="
+        }
+      ]
+    },
+    {
+      "Route": "images/fdhyqjwz.sfn.cji3m90jth.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/fdhyqjwz.sfn.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cji3m90jth"
+        },
+        {
+          "Name": "label",
+          "Value": "images/fdhyqjwz.sfn.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw="
+        }
+      ]
+    },
+    {
+      "Route": "images/fdhyqjwz.sfn.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/fdhyqjwz.sfn.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 23:44:56 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw="
+        }
+      ]
+    },
+    {
+      "Route": "images/h3lin1di.jq5.cji3m90jth.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/h3lin1di.jq5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 22:24:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "cji3m90jth"
+        },
+        {
+          "Name": "label",
+          "Value": "images/h3lin1di.jq5.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw="
+        }
+      ]
+    },
+    {
+      "Route": "images/h3lin1di.jq5.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/h3lin1di.jq5.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "78414"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 22:24:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-aCX6drbspGKi+Me90fvZGwme7ZQk+I7eyKl184NcKXw="
+        }
+      ]
+    },
+    {
+      "Route": "images/phoswiks.bog.e4nxn23h68.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/phoswiks.bog.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TiIAYLc1unhuZxBjMGuNAJ1A9mEGyF51djhy7Zu+7KU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 22:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "e4nxn23h68"
+        },
+        {
+          "Name": "label",
+          "Value": "images/phoswiks.bog.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-TiIAYLc1unhuZxBjMGuNAJ1A9mEGyF51djhy7Zu+7KU="
+        }
+      ]
+    },
+    {
+      "Route": "images/phoswiks.bog.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/phoswiks.bog.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "150509"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"TiIAYLc1unhuZxBjMGuNAJ1A9mEGyF51djhy7Zu+7KU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 22:25:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-TiIAYLc1unhuZxBjMGuNAJ1A9mEGyF51djhy7Zu+7KU="
+        }
+      ]
+    },
+    {
+      "Route": "images/pj1uunup.2xy.fq2dzjav74.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/pj1uunup.2xy.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6SGkBiz6NJKQUMswzpCn28bSdVwWj6ZNzFOx7BT2EiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:40:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "fq2dzjav74"
+        },
+        {
+          "Name": "label",
+          "Value": "images/pj1uunup.2xy.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-6SGkBiz6NJKQUMswzpCn28bSdVwWj6ZNzFOx7BT2EiY="
+        }
+      ]
+    },
+    {
+      "Route": "images/pj1uunup.2xy.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/pj1uunup.2xy.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "50971"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"6SGkBiz6NJKQUMswzpCn28bSdVwWj6ZNzFOx7BT2EiY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:40:52 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-6SGkBiz6NJKQUMswzpCn28bSdVwWj6ZNzFOx7BT2EiY="
+        }
+      ]
+    },
+    {
+      "Route": "images/ra2bnp2m.rb0.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/ra2bnp2m.rb0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9o5dDS2Agc52K9xZuOQ7ENeZiddwU4tU0ntQVUgqqVs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:36:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-9o5dDS2Agc52K9xZuOQ7ENeZiddwU4tU0ntQVUgqqVs="
+        }
+      ]
+    },
+    {
+      "Route": "images/ra2bnp2m.rb0.mwue3644xw.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/ra2bnp2m.rb0.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "61450"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"9o5dDS2Agc52K9xZuOQ7ENeZiddwU4tU0ntQVUgqqVs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:36:41 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mwue3644xw"
+        },
+        {
+          "Name": "label",
+          "Value": "images/ra2bnp2m.rb0.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-9o5dDS2Agc52K9xZuOQ7ENeZiddwU4tU0ntQVUgqqVs="
+        }
+      ]
+    },
+    {
+      "Route": "images/sbsivggj.qhz.ibk3k68biy.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/sbsivggj.qhz.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsrtWQMAStPCILjbQ94fdeI14Wq892HoX4fwjUbyuDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ibk3k68biy"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sbsivggj.qhz.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-YsrtWQMAStPCILjbQ94fdeI14Wq892HoX4fwjUbyuDo="
+        }
+      ]
+    },
+    {
+      "Route": "images/sbsivggj.qhz.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/sbsivggj.qhz.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "135153"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"YsrtWQMAStPCILjbQ94fdeI14Wq892HoX4fwjUbyuDo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:48:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-YsrtWQMAStPCILjbQ94fdeI14Wq892HoX4fwjUbyuDo="
+        }
+      ]
+    },
+    {
+      "Route": "images/sx1wdh30.mfk.2f1t11i0qt.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/sx1wdh30.mfk.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ku45knkoluWQCglTNWIf42GT+s5pXy6nxnduwLp4pdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:36:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "2f1t11i0qt"
+        },
+        {
+          "Name": "label",
+          "Value": "images/sx1wdh30.mfk.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ku45knkoluWQCglTNWIf42GT+s5pXy6nxnduwLp4pdo="
+        }
+      ]
+    },
+    {
+      "Route": "images/sx1wdh30.mfk.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/sx1wdh30.mfk.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "29933"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ku45knkoluWQCglTNWIf42GT+s5pXy6nxnduwLp4pdo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:36:07 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ku45knkoluWQCglTNWIf42GT+s5pXy6nxnduwLp4pdo="
+        }
+      ]
+    },
+    {
+      "Route": "images/v2wtyp4l.yok.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/v2wtyp4l.yok.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WqrtiejyHKVa+kv1OuPysk1QXbTiO7i5neC+YOkm75Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:40:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-WqrtiejyHKVa+kv1OuPysk1QXbTiO7i5neC+YOkm75Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/v2wtyp4l.yok.qs1tssv2m7.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/v2wtyp4l.yok.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "154483"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"WqrtiejyHKVa+kv1OuPysk1QXbTiO7i5neC+YOkm75Q=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 21:40:04 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qs1tssv2m7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/v2wtyp4l.yok.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-WqrtiejyHKVa+kv1OuPysk1QXbTiO7i5neC+YOkm75Q="
+        }
+      ]
+    },
+    {
+      "Route": "images/yzub3t0n.lu2.4u0zr1raj5.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/yzub3t0n.lu2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/L2Dmw4rG/Edq3qn/gY8qxKz7T+HHsGn/mFTFrVW8uk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 22:21:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "4u0zr1raj5"
+        },
+        {
+          "Name": "label",
+          "Value": "images/yzub3t0n.lu2.jpg"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-/L2Dmw4rG/Edq3qn/gY8qxKz7T+HHsGn/mFTFrVW8uk="
+        }
+      ]
+    },
+    {
+      "Route": "images/yzub3t0n.lu2.jpg",
+      "AssetFile": "/Users/alexandertangen/Desktop/Webutvikling Eksamen 2024/TrumpVerseApi2/wwwroot/images/yzub3t0n.lu2.jpg",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "39336"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/jpeg"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"/L2Dmw4rG/Edq3qn/gY8qxKz7T+HHsGn/mFTFrVW8uk=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Thu, 12 Dec 2024 22:21:00 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-/L2Dmw4rG/Edq3qn/gY8qxKz7T+HHsGn/mFTFrVW8uk="
+        }
+      ]
+    }
+  ]
+}

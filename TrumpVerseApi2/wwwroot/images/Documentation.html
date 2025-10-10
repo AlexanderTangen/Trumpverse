@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>TrumpVerse API Documentation</title>
+</head>
+<body>
+
+<header>
+    <h1>TrumpVerse API Documentation</h1>
+</header>
+
+<section>
+    <h2>Base URL</h2>
+    <p>The base URL is: <strong>http://localhost:5259/api</strong></p>
+    <p>All requests are made using GET, POST, PUT, and DELETE methods over HTTPS.</p>
+</section>
+
+<section>
+    <h2>Available Resources</h2>
+    <ul>
+        <li><strong>TrumpMerch</strong>: Retrieve or manage Trump merchandise.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>GET /api/TrumpMerch</h2>
+    <p>This request gets a list of all Trump merchandise in the store.</p>
+    <h3>Example Response</h3>
+    <pre>
+[
+  {
+    "id": 1,
+    "name": "Maga Hat",
+    "price": 50,
+    "description": "Iconic red hat with bold white 'Make America Great Again' embroidery.",
+    "imageUrl": "/Images/Maga_Hat.jpg",
+    "stock": 50
+  }
+]
+    </pre>
+</section>
+
+<section>
+    <h2>POST /api/TrumpMerch</h2>
+    <p>This request creates a new Trump merchandise item in the store.</p>
+    <h3>Request Body (multipart/form-data)</h3>
+    <pre>
+{
+  "name": "Maga Hat",
+  "price": 50,
+  "description": "Iconic red hat with bold white 'Make America Great Again' embroidery.",
+  "image": "file (uploaded image)",
+  "stock": 50
+}
+    </pre>
+    <h3>Example Response</h3>
+    <pre>
+{
+  "id": 1,
+  "name": "Maga Hat",
+  "price": 50,
+  "description": "Iconic red hat with bold white 'Make America Great Again' embroidery.",
+  "imageUrl": "/Images/Maga_Hat.jpg",
+  "stock": 50
+}
+    </pre>
+</section>
+
+<section>
+    <h2>PUT /api/TrumpMerch/{id}</h2>
+    <p>This request updates a existing Trump merchandise item.</p>
+    <h3>Request Body (multipart/form-data)</h3>
+    <pre>
+{
+  "id": 1,
+  "name": "Maga Hat",
+  "price": 50,
+  "description": "Iconic red hat with bold white 'Make America Great Again' embroidery.",
+  "image": "file (uploaded image)",
+  "stock": 60
+}
+    </pre>
+    <p>After this, the item will be updated with the new stock quantity.</p>
+</section>
+
+<section>
+    <h2>DELETE /api/TrumpMerch/{id}</h2>
+    <p>This request removes a Trump merchandise item from the store.</p>
+    <p>Provide the id of the item in the URL to delete it.</p>
+    <h3>Example Request</h3>
+    <pre>
+DELETE /api/TrumpMerch/1
+    </pre>
+    <h3>Example Response</h3>
+    <pre>
+{
+  "message": "Item deleted successfully."
+}
+    </pre>
+</section>
+
+<section>
+    <h2>POST /api/TrumpMerch/update-stock</h2>
+    <p>This request updates the stock for multiple items at once.</p>
+    <h3>Request Body (JSON)</h3>
+    <pre>
+[
+  {
+    "id": 1,
+    "quantity": 10
+  }
+]
+    </pre>
+    <p>After this, the stock for the items will be updated.</p>
+</section>
+
+<style>
+    body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 20px;
+        background-color: #f4f4f9;
+    }
+    header {
+        text-align: center;
+        margin-bottom: 20px;
+    }
+    h1 {
+        font-size: 32px;
+        color: #000000;
+    }
+    h2 {
+        color: #000000;
+        margin-top: 30px;
+        font-size: 24px;
+    }
+    h3 {
+        color: #000000;
+        font-size: 18px;
+    }
+    section {
+        background-color: #ffffff;
+        padding: 10px;
+        border-radius: 5px;
+        margin-bottom: 20px;
+    }
+    pre {
+        background-color: #1f1f1f;
+        color: #ffffff;
+        padding: 10px;
+        border-radius: 5px;
+    }
+</style>
+
+</body>
+</html>
