@@ -1,5 +1,8 @@
 # DS3103 Webutvikling – Eksamensprosjekt 2024
 
+## Viktig merknad
+Dette prosjektet ble laget som del av Webutviklingseksamen 2024. Temaet (Donald Trump) var gitt av oppgaven, og prosjektet er utviklet kun for å løse eksamenskravene. Det reflekterer ikke intensjon om politisk holdning.
+
 Dette er eksamensprosjektet i **DS3103 Webutvikling**, høsten 2024. Prosjektet er laget som en **fullstack-løsning** bestående av:
 
 - **Frontend:** React + TypeScript med Tailwind CSS og responsivt design.  
