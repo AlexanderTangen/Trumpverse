@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="../buildMultiTargeting/TrumpVerseApi2.props" />
-</Project>
