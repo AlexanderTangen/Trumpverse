@@ -83,7 +83,7 @@ const Navigation: React.FC<NavigationProps> = ({
 
         <h1 className="text-2xl font-bold mx-auto md:mx-0 text-center md:text-left md:mr-8">
           <Link to="/merch-list" className="no-underline hover:no-underline">
-            TRUMP VERSE
+            TRUMPVERSE
           </Link>
         </h1>
       
