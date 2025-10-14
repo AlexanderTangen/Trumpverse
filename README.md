@@ -4,13 +4,13 @@ Dette prosjektet ble laget som del av Webutviklingseksamen 2024. Temaet (Donald 
 Dette er eksamensprosjektet i **DS3103 Webutvikling**, høsten 2024. Prosjektet er laget som en **fullstack-løsning** bestående av:
 
 - **Frontend:** React + TypeScript med Tailwind CSS og responsivt design.  
-- **Backend:** .NET 9 Web API (C#) med SQLite-database, som håndterer CRUD-operasjoner.
+- **Backend:** .NET 9 Web API (C#) med SQLite database, som håndterer CRUD operasjoner.
 
 ---
 
 ## Om prosjektet
 
-Eksamen gikk ut på å lage en fullstack-applikasjon der React-frontenden kommuniserer med Web API-et for å hente, opprette, oppdatere og slette data i databasen. Ingen innlogging er implementert, i henhold til eksamenskrav.
+Eksamen gikk ut på å lage en fullstack applikasjon der React frontenden kommuniserer med Web API-et for å hente, opprette, oppdatere og slette data i databasen. Ingen innlogging er implementert, i henhold til eksamenskrav.
 
 Prosjektet viser ferdigheter innen:
 - HTML5 og CSS3  
