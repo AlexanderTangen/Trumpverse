@@ -1,7 +1,7 @@
 ## Viktig merknad
-Dette prosjektet ble laget som del av Webutviklingseksamen 2024. Temaet (Donald Trump) var gitt av oppgaven, og prosjektet er utviklet kun for å løse eksamen. Det reflekterer ikke intensjon om politisk holdning.
+Dette prosjektet ble laget som del av DS3103 Webutviklingseksamen 2024. Temaet (Donald Trump) var gitt av oppgaven, og prosjektet er utviklet kun for å løse eksamen. Det reflekterer ikke intensjon om politisk holdning.
 
-Dette er eksamensprosjektet i **DS3103 Webutvikling**, høsten 2024. Prosjektet er laget som en **fullstack-løsning** bestående av:
+Prosjektet er laget som en **fullstack-løsning** bestående av:
 
 - **Frontend:** React + TypeScript med Tailwind CSS og responsivt design.  
 - **Backend:** .NET 9 Web API (C#) med SQLite database, som håndterer CRUD operasjoner.
@@ -10,16 +10,20 @@ Dette er eksamensprosjektet i **DS3103 Webutvikling**, høsten 2024. Prosjektet 
 
 ## Om prosjektet
 
-Eksamen gikk ut på å lage en fullstack applikasjon der React frontenden kommuniserer med Web API-et for å hente, opprette, oppdatere og slette data i databasen. Ingen innlogging er implementert, i henhold til eksamenskrav.
+Prosjektet er en **fullstack-applikasjon** laget som en del av eksamen, bestående av:
 
-Prosjektet viser ferdigheter innen:
+- **Frontend:** React + TypeScript med Tailwind CSS og responsivt design  
+- **Backend:** .NET 9 Web API (C#) med SQLite database, som håndterer CRUD-operasjoner
+
+Applikasjonen lar React frontenden kommunisere med Web API-et for å hente, opprette, oppdatere og slette data i databasen. Ingen innlogging er implementert, i henhold til eksamenskrav.
+
+Prosjektet demonstrerer ferdigheter innen:  
 - HTML5 og CSS3  
 - CSS Grid og Tailwind, inkludert responsivt design  
 - Universell utforming  
 - React og TypeScript (ES6+)  
 - .NET/C# Web API med SQLite  
-- HTTP-forespørsler fra frontend til backend  
-
+- HTTP forespørsler fra frontend til backend
 ---
 
 ## Kom i gang (lokal kjøring)
